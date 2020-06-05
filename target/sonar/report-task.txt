@@ -1,0 +1,6 @@
+projectKey=tayyibah
+serverUrl=http://35.239.201.125/sonarqube
+serverVersion=8.3.1.34397
+dashboardUrl=http://35.239.201.125/sonarqube/dashboard?id=tayyibah
+ceTaskId=AXJ_-_R3NKA07GsUeOsf
+ceTaskUrl=http://35.239.201.125/sonarqube/api/ce/task?id=AXJ_-_R3NKA07GsUeOsf
